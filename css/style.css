@@ -70,12 +70,16 @@ a{
   display: block;
   margin: 0 auto;
 }
+
 .profile h1,h2,h3,h4,h5,h6,p{
   text-align: center;
 }
 .logos {
   text-align: center;
   padding: 10px;
+}
+.logos a{
+  color: var(--color-text)
 }
 .logos i{
   padding: 2px;
